@@ -3,9 +3,9 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=127.0.0.1;dbname=siakad',
-            'username' => 'root',
-            'password' => '',
+            'dsn' => 'mysql:host=mysql.idhostinger.com;dbname=u568785339_sia',
+            'username' => 'u568785339_siat',
+            'password' => 'demosiakad',
             'charset' => 'utf8',
         ],
         'mailer' => [
