@@ -4,7 +4,7 @@ return [
         'db' => [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=mysql.idhostinger.com;dbname=u568785339_sia',
-            'username' => 'u568785339_siat',
+            'username' => 'u568785339_sia',
             'password' => 'demosiakad',
             'charset' => 'utf8',
         ],
